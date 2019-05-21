@@ -17,3 +17,6 @@ int main()
 
 
 [百度](www.baidu.com)
+
+
+![image](http://github.com/ylwang68/practice/raw/master/FPGA.png)
